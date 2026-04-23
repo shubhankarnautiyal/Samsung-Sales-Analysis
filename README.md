@@ -57,7 +57,7 @@ Monthly growth trends
 📌 Inventory fluctuations affect turnover rates
 📌 Discounts directly influence profit margins
 
-📂 Dashboard Screenshots
+📊 Dashboard Screenshots
 🏠 Home
 
 📊 Overview
