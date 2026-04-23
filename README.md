@@ -58,14 +58,15 @@ Monthly growth trends
 📌 Discounts directly influence profit margins
 
 📊 Dashboard Screenshots
-🏠 Home
 
-📊 Overview
+![Home](https://raw.githubusercontent.com/shubhankarnautiyal/Samsung-Sales-Analysis/main/Home.png)
 
-🏭 Supplier
+![Overview](https://raw.githubusercontent.com/shubhankarnautiyal/Samsung-Sales-Analysis/main/Overview.png)
 
-📦 Inventory
+![Supplier](https://raw.githubusercontent.com/shubhankarnautiyal/Samsung-Sales-Analysis/main/Supplier.png)
 
-🚚 Shipment
+![Inventory](https://raw.githubusercontent.com/shubhankarnautiyal/Samsung-Sales-Analysis/main/Inventory.png)
 
-👥 Customer
+![Shipment](https://raw.githubusercontent.com/shubhankarnautiyal/Samsung-Sales-Analysis/main/Shipment.png)
+
+![Customer](https://raw.githubusercontent.com/shubhankarnautiyal/Samsung-Sales-Analysis/main/Customer.png)
